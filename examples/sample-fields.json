@@ -1,0 +1,27 @@
+{
+  "cliente": "Distribuidora Ejemplo",
+  "cliente_descriptor": "Artículos de limpieza para almacenes y autoservicios · Zona sur del Gran Buenos Aires",
+  "contacto": "Laura",
+  "vende": "Artículos de limpieza, marca propia y de terceros",
+  "a_quien": "Almacenes, autoservicios y bazares",
+  "zonas_hoy": "Quilmes, Berazategui y Florencio Varela",
+  "zonas_nuevas": "La Plata y Lomas de Zamora",
+  "pedido_minimo": "150 mil pesos",
+  "como_llegan": "Por los dos preventistas y por recomendación",
+  "quien_contesta": "Laura, de 9 a 17",
+  "diag_lead": "Esto sale de lo que nos contaste en la llamada. Son los tres puntos que ordenan el plan.",
+  "diag": [
+    {"t": "Los comercios nuevos dependen de los dos preventistas", "d": "Hoy entran entre 4 y 6 comercios nuevos por mes, casi todos por recorrido o por un conocido."},
+    {"t": "La Plata ya pide, pero nadie la recorre", "d": "Tres almacenes de La Plata escribieron este año por Instagram y ninguno llegó al primer pedido."},
+    {"t": "El pedido mínimo filtra bien", "d": "Con 150 mil pesos de mínimo, el que pasa ese número repone cada dos o tres semanas."}
+  ],
+  "oportunidad": "La Plata y Lomas tienen almacenes y autoservicios que ya compran limpieza por caja. Si llegan con el pedido mínimo claro y alguien les contesta en el día, el reparto actual los absorbe sin sumar camioneta.",
+  "pasos": [
+    "En tu caso: arrancamos por La Plata, con autoservicios de más de dos cajas, y tu lista de precios adelante.",
+    "Anuncios para dueños de almacenes de La Plata y Lomas, con las preguntas de zona y pedido mínimo antes de llegar a Laura.",
+    "Laura recibe los mensajes armados para cada pregunta y medimos cuánto tarda en contestar.",
+    "Aviso por WhatsApp a cada comercio cuando le toca reponer, y cada semana cuántos entraron y cuánto costó cada uno."
+  ],
+  "llamada2": "jueves 15 a las 11",
+  "pauta_ars": 600000
+}

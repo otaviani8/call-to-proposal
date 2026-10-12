@@ -1,0 +1,14 @@
+{
+  "name": "call-to-proposal",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Sales-call transcript -> Claude (structured tool output) -> branded HTML -> PDF on Vercel.",
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "149.0.0",
+    "puppeteer-core": "25.4.0"
+  }
+}

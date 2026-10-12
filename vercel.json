@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "api/render.js": {
+      "maxDuration": 60
+    },
+    "api/propuesta.js": {
+      "maxDuration": 60,
+      "includeFiles": "templates/**"
+    },
+    "api/propuesta-desde-transcripcion.js": {
+      "maxDuration": 120,
+      "includeFiles": "templates/**"
+    }
+  }
+}

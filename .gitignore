@@ -1,0 +1,6 @@
+node_modules/
+.vercel
+.render_api_key.txt
+_test*
+*.log
+.DS_Store
