@@ -1,5 +1,11 @@
 # Call to Proposal
 
+![Node.js](https://img.shields.io/badge/Node.js-ESM-339933?logo=nodedotjs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-tool%20schema-D97757?logo=anthropic&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Functions-000000?logo=vercel&logoColor=white)
+![Chromium](https://img.shields.io/badge/headless-Chromium-4285F4?logo=googlechrome&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google-Apps%20Script-4285F4?logo=google&logoColor=white)
+
 This service turns the transcript of a 20-minute discovery call into a client-ready proposal PDF in a single request.
 
 Claude reads the transcript and returns the proposal fields through a strict tool schema. That covers:
